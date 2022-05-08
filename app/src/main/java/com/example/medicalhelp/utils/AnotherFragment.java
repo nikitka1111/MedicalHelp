@@ -8,6 +8,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
+import com.example.medicalhelp.R;
 import com.example.medicalhelp.databinding.FragmentAnotherBinding;
 
 public class AnotherFragment extends Fragment {
@@ -23,6 +24,7 @@ public class AnotherFragment extends Fragment {
                 container,
                 false
         );
+        binding.blankImage.setImageResource(R.drawable.ddc79e6b194d338e3527d9d5157b1376);
         return binding.getRoot();
     }
 

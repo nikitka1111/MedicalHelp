@@ -25,7 +25,7 @@
 
     <style name="SplashScreenTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <item name="android:windowBackground">
-            @drawable/ic_launcher_foreground
+            @drawable/_3e5fbf5_4da4_4f3c_91df_baf56315b116
         </item>
     </style>
 </resources>
